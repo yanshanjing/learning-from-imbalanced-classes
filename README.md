@@ -1,7 +1,7 @@
 # learning-from-imbalanced-classes
 
 This repo corresponds to a blog post I wrote discussing how to learn from data
-with imbalanced classes.  The blog post is <HERE>.  In this directory you'll
+with imbalanced classes.  The blog post is here: http://www.svds.com/learning-imbalanced-classes/.  In this directory you'll
 find two Python Jupyter notebooks illustrating two
 points made in that blog post.
 
